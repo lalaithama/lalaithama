@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @lalaithama, formerly @lalaithan, or Ashley Anderson.
+# 👋 I'm Ashley. 
 
-- ⚡ Fun fact: I work in healthcare but I went to college for infosec. I'm here because I couldn't leave programming behind *totally*. Because I'm weird like that. 
+I’m what happens when an **infosec student** becomes a **certified pharmacy technician** and then decides **data** is the missing link. 
 
-<!---
-lalaithama/lalaithama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I spend my days troubleshooting pharmaceutical insurance rejections (the ultimate logic puzzle) and my nights exploring data sets. 
+
+### 🛠️ The Toolkit
+
+**Data & Development**
+- **Languages:** SQL, Ruby, R,  Linux, JavaScript (full stack)
+- **Specialization:** Systems analysis
+- **Foundations:** Information Security & Digital Forensics (RIT), Data Science Specialization (JHU)
+
+**Healthcare Operations**
+- **Pharmacy Systems:** Connexus (Walmart), Intercom Plus (Walgreens)
+- **Expertise:** Third-party adjudication, billing & reimbursement, compliance, high-volume workflow, medication therapy management
+
+### 🌱 What I'm Up To
+- 📍 Based in **Salisbury, MD**.
+- 🧪 Integrating clinical pharmacy logic with data-driven insights.
+- 🚀 Formerly `@lalaithan`.
+
+"I didn't leave programming behind—I just brought it to the pharmacy."
